@@ -1,3 +1,3 @@
 def square_array(array)
-  # your code here
+  each_char { |chr|  }
 end
